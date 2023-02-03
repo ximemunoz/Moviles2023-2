@@ -1,5 +1,3 @@
 apellidos
-Muñoz
-Rivera
-Villaseñor
-Courtade
+Muñoz Villaseñor
+Rivera Courtade
